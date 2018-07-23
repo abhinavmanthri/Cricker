@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cricker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="new_match">New Match</string>
+    <string name="domain">cricker4cricketers@cricker.com</string>
+    <string name="voice_mode">Voice Mode</string>
+</resources>
